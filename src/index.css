@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --font-sans: 'Vazirmatn', system-ui, sans-serif;
+  
+  --color-primary-ice: #e0f2fe;
+  --color-primary-blue: #0ea5e9;
+  --color-primary-darkblue: #020617;
+  --color-accent-pink: #ec4899;
+  --color-accent-purple: #a855f7;
+}
+
+@layer base {
+  body {
+    @apply font-sans text-slate-900 bg-slate-50 dark:text-slate-100 dark:bg-black antialiased transition-colors duration-300;
+  }
+}
+
+.glass-panel {
+  @apply bg-white/70 dark:bg-black/40 backdrop-blur-md border border-white/20 dark:border-white/10 shadow-lg;
+}
+
+.breathing-border {
+  animation: breathe 3s infinite ease-in-out;
+}
+
+@keyframes breathe {
+  0%, 100% { border-color: rgba(255, 255, 255, 0.2); box-shadow: 0 0 5px rgba(255, 255, 255, 0.1); }
+  50% { border-color: currentColor; box-shadow: 0 0 15px currentColor; }
+}
+
+/* Scrollbar hide for horizontal lists */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Focus mode blur overlay */
+.focus-blur-overlay {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 30; /* Below header/footer but above content */
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  mask-image: linear-gradient(to bottom, black 0%, transparent 8%, transparent 92%, black 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black 0%, transparent 8%, transparent 92%, black 100%);
+}

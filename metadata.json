@@ -1,0 +1,6 @@
+{
+  "name": "Mobi Land",
+  "description": "دستیار هوشمند فروشگاه موبی لند؛ مرجع بررسی و خرید به‌روزترین لوازم دیجیتال شامل موبایل، لپ‌تاپ، تبلت و قطعات کامپیوتری.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

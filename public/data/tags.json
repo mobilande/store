@@ -1,0 +1,12 @@
+[
+  { "name": "لپ تاپ", "slug": "laptop", "color": "#ec4899" },
+  { "name": "موبایل", "slug": "mobile", "color": "#0ea5e9" },
+  { "name": "لوازم جانبی", "slug": "janebi", "color": "#a855f7" },
+  { "name": "کامپیوتر", "slug": "pc", "color": "#22c55e" },
+  { "name": "بازی", "slug": "game", "color": "#f59e0b" },
+  { "name": "کنسول", "slug": "console", "color": "#eab308" },
+  { "name": "هدست", "slug": "headset", "color": "#ef4444" },
+  { "name": "تبلت", "slug": "tablet", "color": "#06b6d4" },
+  { "name": "تلوزیون", "slug": "tv", "color": "#8b5cf6" },
+  { "name": "پک دخترانه", "slug": "girl", "color": "#f43f5e" }
+]
