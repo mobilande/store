@@ -201,7 +201,7 @@ about: {
             <button onClick={() => setActiveModal('blue_bank')} className="w-24 h-24 rounded-2xl bg-white shadow-[inset_0_1px_1px_rgba(255,255,255,0.1),_0_4px_10px_rgba(0,0,0,0.1)] dark:shadow-[inset_0_1px_1px_rgba(255,255,255,0.1),_0_4px_10px_rgba(0,0,0,0.3)] flex items-center justify-center border border-slate-200 dark:border-slate-700 hover:scale-105 transition-transform overflow-hidden p-2">
               <img src="https://uploadkon.ir/uploads/c53417_26com-samanpr-blu.png" alt="بلو بانک" className="w-full h-full object-contain" />
             </button>
-            <a href="#" target="_blank" rel="noopener noreferrer" className="w-24 h-24 rounded-2xl bg-white shadow-[inset_0_1px_1px_rgba(255,255,255,0.1),_0_4px_10px_rgba(0,0,0,0.1)] dark:shadow-[inset_0_1px_1px_rgba(255,255,255,0.1),_0_4px_10px_rgba(0,0,0,0.3)] flex items-center justify-center border border-slate-200 dark:border-slate-700 hover:scale-105 transition-transform overflow-hidden p-2" >
+            <a href="https://trustseal.mobilande.workers.dev" target="_blank" rel="noopener noreferrer" className="w-24 h-24 rounded-2xl bg-white shadow-[inset_0_1px_1px_rgba(255,255,255,0.1),_0_4px_10px_rgba(0,0,0,0.1)] dark:shadow-[inset_0_1px_1px_rgba(255,255,255,0.1),_0_4px_10px_rgba(0,0,0,0.3)] flex items-center justify-center border border-slate-200 dark:border-slate-700 hover:scale-105 transition-transform overflow-hidden p-2" >
               <img src="https://uploadkon.ir/uploads/a6f112_2635-4star.png" alt="نماد اعتماد خزیداران" className="w-full h-full object-contain" />
             </a>
           </div>
