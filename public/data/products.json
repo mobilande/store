@@ -435,5 +435,147 @@
         "score": 5
       }
     ]
-  }
+  },
+  {
+  "id": "8",
+  "title": "شارژر 20 وات سیلیسیومی سوپر",
+  "code": "HDS-JB-354",
+  "tag": "janebi",
+  "borderColor": "orange",
+  "live": false,
+  "offer": true,
+  "priceInEuro": 6,
+  "oldPriceInEuro": 6,
+  "priceInToman": 1590000,
+  "badges": [
+    "گارانتی ۱۸ ماهه",
+    "سامسونگ",
+    "اپل",
+    "شیایومی",
+    "پوکو",
+    "اوپو",
+    "ویوو"
+  ],
+  "specs": [
+    {
+      "key": "برند",
+      "value": "BS"
+    },
+    {
+      "key": "مناسب برند های",
+      "value": "سامسونگ. اپل. شیایومی."
+    },
+    {
+      "key": "شارژر ایمن",
+      "value": "دارد"
+    },
+    {
+      "key": "حسگر دماسنج",
+      "value": "دارد"
+    },
+    {
+      "key": "سیستم ضد امواج",
+      "value": "دارد"
+    },
+    {
+      "key": "نویز گیر",
+      "value": "دارد"
+    },
+    {
+      "key": "سازگاری با قطعی برق",
+      "value": "دارد"
+    },
+    {
+      "key": "هوش مصنوعی",
+      "value": "دارد"
+    },
+    {
+      "key": "جلوگیری از پف باتری",
+      "value": "دارد"
+    },
+    {
+      "key": "پورت اتصال",
+      "value": "تایپ سی"
+    },
+    {
+      "key": "ولتاژ",
+      "value": "20 وات"
+    }
+  ],
+  "mountExist": 11,
+  "pictureLink": "https://uploadkon.ir/uploads/a0fc19_26Screenshot-From-2026-09-19-17-22-16.png",
+  "description": "",
+  "background": "pink",
+  "reviews": []
+},
+{
+  "id": "8",
+  "title": "لپ تاپ ام اس آی MSI AI GAMING LAPTOP",
+  "code": "CON-QN-654",
+  "tag": "laptop",
+  "borderColor": "purple",
+  "live": false,
+  "offer": true,
+  "priceInEuro": 865,
+  "oldPriceInEuro": 865,
+  "priceInToman": 229225000,
+  "badges": [
+    "گارانتی 48 ماهه",
+    "ویندوز 11 پرو پلاس",
+    "کیف گیمینگ",
+    "ماوس گیمینگ",
+    "کولپد گیمینگ"
+  ],
+  "specs": [
+    {
+      "key": "برند",
+      "value": "ام اس آی"
+    },
+    {
+      "key": "مدل",
+      "value": "AI GAMING 15"
+    },
+    {
+      "key": "پردازنده",
+      "value": "26 تجمیع"
+    },
+    {
+      "key": "گرافیک اول",
+      "value": "6 گیگ RTX هوش مصنوعی و بازی"
+    },
+    {
+      "key": "رم",
+      "value": "16 گیگ"
+    },
+    {
+      "key": "حافظه",
+      "value": "1024 گیگ 1 ترابایت"
+    },
+    {
+      "key": "گرافیک دوم",
+      "value": "10 گیگ روزمره"
+    },
+    {
+      "key": "سیستم عامل",
+      "value": "ویندزو 11 پرو پلاس"
+    },
+    {
+      "key": "هدیه",
+      "value": "دارد"
+    },
+    {
+      "key": "قرعه کشی",
+      "value": "دارد"
+    },
+    {
+      "key": "کاربری",
+      "value": "هوش مصنوعی و بازی و همه چی"
+    }
+  ],
+  "mountExist": 1,
+  "pictureLink": "https://uploadkon.ir/uploads/949719_26ChatGPT-Image-Sep-19-2026-05-15-07-PM.png",
+  "description": "",
+  "background": "pink",
+  "reviews": []
+}
 ]
