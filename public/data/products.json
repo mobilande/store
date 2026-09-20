@@ -577,5 +577,383 @@
         "description": "",
         "background": "pink",
         "reviews": []
+    },
+    {
+        "id": "11",
+        "title": "کابل شارژ تایپ سی EPIMAX EC-122",
+        "code": "PC-WX-969",
+        "tag": "janebi",
+        "borderColor": "pink",
+        "live": false,
+        "offer": false,
+        "priceInEuro": 3,
+        "oldPriceInEuro": 3,
+        "priceInToman": 792000,
+        "badges": [
+            "گارانتی ۱۲ ماهه",
+            "ارسال رایگان"
+        ],
+        "specs": [
+            {
+                "key": "برند",
+                "value": "Epimax"
+            }
+        ],
+        "mountExist": 5,
+        "pictureLink": "https://uploadkon.ir/uploads/055819_26IMG-4446.jpeg",
+        "description": "",
+        "background": "pink",
+        "reviews": []
+    },
+    {
+        "id": "12",
+        "title": "کابل شارژ تايپ سی EPIMAX EC-125",
+        "code": "LPT-NI-629",
+        "tag": "janebi",
+        "borderColor": "pink",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 4,
+        "oldPriceInEuro": 4,
+        "priceInToman": 850000,
+        "badges": [],
+        "specs": [],
+        "mountExist": 1,
+        "pictureLink": "https://uploadkon.ir/uploads/b4fa19_26IMG-4447.jpeg",
+        "description": "",
+        "background": "pink",
+        "reviews": []
+    },
+    {
+        "id": "13",
+        "title": "کابل شارژ دوسر تایپ سی MOSSCO IC-25",
+        "code": "ACC-MG-563",
+        "tag": "janebi",
+        "borderColor": "pink",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 2,
+        "oldPriceInEuro": 2,
+        "priceInToman": 528000,
+        "badges": [],
+        "specs": [
+            {
+                "key": "برند",
+                "value": "Mossco"
+            }
+        ],
+        "mountExist": 1,
+        "pictureLink": "https://uploadkon.ir/uploads/014719_26IMG-4448.jpeg",
+        "description": "",
+        "background": "pink",
+        "reviews": []
+    },
+    {
+        "id": "14",
+        "title": "آداپتور Apple 20W A2344 12Pin China",
+        "code": "PC-NX-291",
+        "tag": "janebi",
+        "borderColor": "pink",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 13,
+        "oldPriceInEuro": 13,
+        "priceInToman": 3432000,
+        "badges": [],
+        "specs": [],
+        "mountExist": 1,
+        "pictureLink": "https://uploadkon.ir/uploads/247a19_26IMG-4449.jpeg",
+        "description": "",
+        "background": "pink",
+        "reviews": []
+    },
+    {
+        "id": "10",
+        "title": "شارژر نوکیا V8 High Copy",
+        "code": "HDS-QB-383",
+        "tag": "janebi",
+        "borderColor": "green",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 1,
+        "oldPriceInEuro": 1,
+        "priceInToman": 271000,
+        "badges": [],
+        "specs": [
+            {
+                "key": "برند",
+                "value": "Nokia"
+            },
+            {
+                "key": "مدل",
+                "value": "V8"
+            }
+        ],
+        "mountExist": 10,
+        "pictureLink": "https://uploadkon.ir/uploads/b86614_26IMG-4369.jpeg",
+        "description": "* کیفیت: High Copy\n* نوع کانکتور: Micro USB (V8)\n* ولتاژ ورودی: 100–240V\n* ولتاژ خروجی: 5V\n* شدت جریان خروجی: 1A\n* توان خروجی: 5W\n* نوع دوشاخه: استاندارد دوشاخه اروپایی\n* رنگ: مشکی\n* طول کابل: حدود 1 متر\n* مناسب برای: گوشی‌ها و دستگاه‌های دارای درگاه Micro USB\n* کاربرد: شارژ گوشی و دستگاه‌های سازگار\n* وضعیت: نو\n* نوع کالا: کپی با کیفیت High Copy",
+        "background": "green",
+        "reviews": []
+    },
+    {
+        "id": "9",
+        "title": "آداپتور سامسونگ S4 2A",
+        "code": "MOB-MO-900",
+        "tag": "janebi",
+        "borderColor": "green",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 1,
+        "oldPriceInEuro": 1,
+        "priceInToman": 271000,
+        "badges": [
+            "گارانتی ۱۲ماهه"
+        ],
+        "specs": [
+            {
+                "key": "برند",
+                "value": "Samsung"
+            },
+            {
+                "key": "نوع",
+                "value": "شارژر دیواری"
+            },
+            {
+                "key": "قابلیت شارژ سریع",
+                "value": "Fast Charge QC 3.0"
+            },
+            {
+                "key": "حداکثر توان خروجی",
+                "value": "15وات"
+            },
+            {
+                "key": "نوع دوشاخه",
+                "value": "دوپین اروپایی"
+            },
+            {
+                "key": "تعداد پورت خروجی",
+                "value": "1عدد"
+            },
+            {
+                "key": "لوگو",
+                "value": "Samsung حک شده"
+            },
+            {
+                "key": "کیفیت ساخت",
+                "value": "بالا"
+            }
+        ],
+        "mountExist": 10,
+        "pictureLink": "https://uploadkon.ir/uploads/552a14_26IMG-4367.jpeg",
+        "description": "",
+        "background": "green",
+        "reviews": []
+    },
+    {
+        "id": "8",
+        "title": "آداپتور Xiaomi 67W China Original",
+        "code": "LPT-JB-539",
+        "tag": "janebi",
+        "borderColor": "green",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 4,
+        "oldPriceInEuro": 4,
+        "priceInToman": 1084000,
+        "badges": [
+            "گارانتی سلامت فیزیکی"
+        ],
+        "specs": [
+            {
+                "key": "برند",
+                "value": "Xiaomi"
+            },
+            {
+                "key": "توان خروجی",
+                "value": "حداکثر 67 وات"
+            },
+            {
+                "key": "نوع شارژ",
+                "value": "فست شارژ/ HyperCharge"
+            },
+            {
+                "key": "نوع پورت",
+                "value": "USB-A"
+            },
+            {
+                "key": "ولتاژ ورودی",
+                "value": "240V-100"
+            },
+            {
+                "key": "فرکانس ورودی",
+                "value": "50/60Hz"
+            },
+            {
+                "key": "خروجی استاندارد",
+                "value": "5V ⎓ 3A"
+            },
+            {
+                "key": "جنس بدنه",
+                "value": "پلاستیک مقاوم در برابر حرارت"
+            },
+            {
+                "key": "مدل",
+                "value": "MDY-12-EH"
+            }
+        ],
+        "mountExist": 10,
+        "pictureLink": "https://uploadkon.ir/uploads/e0e314_26IMG-4366.jpeg",
+        "description": "",
+        "background": "green",
+        "reviews": []
+    },
+    {
+        "id": "15",
+        "title": "آداپتور EPIMAX EU-83 USB-C 30W",
+        "code": "CON-HC-606",
+        "tag": "janebi",
+        "borderColor": "pink",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 7,
+        "oldPriceInEuro": 7,
+        "priceInToman": 1848000,
+        "badges": [
+            "گارانتی ۱۸ ماهه",
+            "ارسال رایگان"
+        ],
+        "specs": [
+            {
+                "key": "برند",
+                "value": "Epimax"
+            }
+        ],
+        "mountExist": 1,
+        "pictureLink": "https://uploadkon.ir/uploads/647f19_26IMG-4450.jpeg",
+        "description": "ویژگی ها\nخروجی تایپ سی 30 وات\nنمایش سوپر فست برای سامسونگ های جدید\nتوربو برای شیاومی های جدید\nفست شارژ برای ایفون\nفست شارژ QC3.0 برای همه مدل های قدیمی\nچیپست هوشمند با تشخیص اتوماتیک برنامه شارژ\nخازن های جامد و برد ۴ لایه\nشارژ بهینه و افزایش طول عمر تلفن همراه\nچیپست کنترل دما.\nچیپست کنترل ولتاژ.\nچیپست کنترل جریان.\nچیپست ضد اتصال کوتاه.\nسیستم دراپ شارژ.\nسیستم کنترل شارژ در هنگام استفاده.\nسیستم ضد حریق\nسیستم حذف نویز برق شهری\nپشتیبانی از همه مدل ها\nماه گارانتی شرکت رهام۱۸",
+        "background": "pink",
+        "reviews": []
+    },
+    {
+        "id": "16",
+        "title": "آداپتور WECO WE-55 PD 35W",
+        "code": "LPT-CP-314",
+        "tag": "janebi",
+        "borderColor": "pink",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 7,
+        "oldPriceInEuro": 7,
+        "priceInToman": 1848000,
+        "badges": [
+            "گارانتی ۱۲ ماهه",
+            "ارسال رایگان"
+        ],
+        "specs": [
+            {
+                "key": "برند",
+                "value": "Weco"
+            }
+        ],
+        "mountExist": 1,
+        "pictureLink": "https://uploadkon.ir/uploads/f00119_26IMG-4451.jpeg",
+        "description": "پورت خروجی: یک پورت TYPE-C\nخروجی: تشخیص اتوماتیک دستگاه 5 وات تا 35 وات\nچیپست هوشمند با تشخیص اتوماتیک\nقابلیت شارژ بدون نوسان\nقابلیت Super Fast Charge QC3.0 و Turbo Charge\nدارای آی سی شارژ سامسونگ (نمایش شارژ فوق سریع)، شیائومی، هواوی، نوکیا و اپل\nبدنه ساخته شده از پلاستیک باکیفیت\nمقاوم در برابر آسیب های احتمالی همچون ضربه و فشار\n12 ماه گارانتی از شرکت رهام",
+        "background": "pink",
+        "reviews": []
+    },
+    {
+        "id": "17",
+        "title": "هندزفری بلوتوث QCY T13",
+        "code": "CON-ST-996",
+        "tag": "janebi",
+        "borderColor": "pink",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 11,
+        "oldPriceInEuro": 11,
+        "priceInToman": 2904000,
+        "badges": [],
+        "specs": [],
+        "mountExist": 1,
+        "pictureLink": "https://uploadkon.ir/uploads/53ec19_26IMG-4452.jpeg",
+        "description": "",
+        "background": "pink",
+        "reviews": []
+    },
+    {
+        "id": "18",
+        "title": "هدست گیمینگ سیم دار OVANN X13",
+        "code": "LPT-JU-406",
+        "tag": "headset",
+        "borderColor": "colorfull",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 8,
+        "oldPriceInEuro": 8,
+        "priceInToman": 1950000,
+        "badges": [],
+        "specs": [],
+        "mountExist": 1,
+        "pictureLink": "https://uploadkon.ir/uploads/970a19_26IMG-4453.jpeg",
+        "description": "",
+        "background": "colorfull",
+        "reviews": []
+    },
+    {
+        "id": "19",
+        "title": "هدست گیمینگ سیم دار ONIKUMA X31",
+        "code": "PC-ZQ-930",
+        "tag": "headset",
+        "borderColor": "colorfull",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 10,
+        "oldPriceInEuro": 10,
+        "priceInToman": 2640000,
+        "badges": [],
+        "specs": [],
+        "mountExist": 1,
+        "pictureLink": "https://uploadkon.ir/uploads/556619_26IMG-4454.jpeg",
+        "description": "",
+        "background": "colorfull",
+        "reviews": []
+    },
+    {
+        "id": "20",
+        "title": "پایه نگهدارنده هدست",
+        "code": "PC-PS-812",
+        "tag": "headset",
+        "borderColor": "colorfull",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 1,
+        "oldPriceInEuro": 1,
+        "priceInToman": 150000,
+        "badges": [],
+        "specs": [],
+        "mountExist": 1,
+        "pictureLink": "https://uploadkon.ir/uploads/2af219_26IMG-4455.jpeg",
+        "description": "",
+        "background": "colorfull",
+        "reviews": []
+    },
+    {
+        "id": "21",
+        "title": "اسپیکر بلوتوثی X-922",
+        "code": "HDS-HW-341",
+        "tag": "janebi",
+        "borderColor": "pink",
+        "live": true,
+        "offer": false,
+        "priceInEuro": 5,
+        "oldPriceInEuro": 5,
+        "priceInToman": 1320000,
+        "badges": [],
+        "specs": [],
+        "mountExist": 1,
+        "pictureLink": "https://uploadkon.ir/uploads/b31019_26IMG-4456.jpeg",
+        "description": "",
+        "background": "pink",
+        "reviews": []
     }
 ]
