@@ -146,7 +146,7 @@ export default function Header() {
 
       {/* Banner */}
       <div className="fixed top-0 left-0 w-full h-10 bg-gradient-to-r from-primary-blue to-accent-pink z-50 flex items-center justify-center text-white text-sm font-medium">
-        <span> برای خرید لپ تاپ از طریق پشتیبانی در ارتباط باشید </span>
+        <span>!برای خرید لپ تاپ از طریق پشتیبانی در ارتباط باشید</span>
       </div>
 
       {/* Euro Rate display */}
